@@ -1,0 +1,12 @@
+..\obj\matrix.o: ..\HARDWARE\IIC\Matrix.c
+..\obj\matrix.o: ..\HARDWARE\IIC\Matrix.h
+..\obj\matrix.o: e:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\arm_math.h
+..\obj\matrix.o: e:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+..\obj\matrix.o: e:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\matrix.o: ..\CORE\core_cmInstr.h
+..\obj\matrix.o: ..\CORE\core_cmFunc.h
+..\obj\matrix.o: ..\CORE\core_cm4_simd.h
+..\obj\matrix.o: e:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+..\obj\matrix.o: ..\HARDWARE\IIC\math.h
+..\obj\matrix.o: ..\HARDWARE\IIC\FastMath.h
+..\obj\matrix.o: ..\HARDWARE\IIC\Double.h
